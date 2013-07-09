@@ -1,6 +1,6 @@
 # Pixelbox
 
-Icons and checkboxes for [NSIS][1] installers and uninstallers.
+A set of icons and checkboxes for installers and uninstallers. Some of these are included in the official [NSIS][1] distribution, others have been revised over the years. Except for the oldest revision, the icons are available in three sizes (16✕16, 32✕32, 48✕48.)
 
 ## Installation
 

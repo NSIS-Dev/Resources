@@ -1,13 +1,6 @@
 # VectorDisc
 
-Icons and wizard images for [NSIS][1] installers and uninstallers.
-
-All included icons are available in four sizes:
-
-* 16✕16
-* 32✕32
-* 48✕48
-* 256✕256
+The VectorDisc icon-set for [NSIS][1], as the name suggest, is a reduced representation of an optical disc, clearly labeled with the words "Setup" and "Remove" to reveal their purpose. The download includes two icons in various sizes (16✕16, 32✕32, 48✕48, 128✕128), two wizard images, and the original vector file in SVG format.
 
 ## Installation
 
