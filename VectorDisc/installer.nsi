@@ -21,9 +21,9 @@ Section "Icons" icons
 
 SectionEnd
 
-Section "Checkboxes"
+Section "Wizard Images"
 
-	SetOutPath "$INSTDIR\Contrib\Graphics\Checks"
+	SetOutPath "$INSTDIR\Contrib\Graphics\Wizard"
 	File "VectorDisc Installer.bmp"
 	File "VectorDisc Uninstaller.bmp"
 

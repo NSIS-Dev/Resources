@@ -14,7 +14,7 @@ All included icons are available in four sizes:
 ### Manual Installation
 
 1. Copy all `.ico` files to `%PROGRAMFILES%\NSIS\Contrib\Graphics\Icons`
-2. Copy all `.bmp` files to `%PROGRAMFILES%\NSIS\Contrib\Graphics\Checks`
+2. Copy all `.bmp` files to `%PROGRAMFILES%\NSIS\Contrib\Graphics\Wizard`
 
 ### Windows Installer
 
