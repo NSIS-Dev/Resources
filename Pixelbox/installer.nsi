@@ -13,7 +13,7 @@ Page directory
 Page instfiles
 
 ; Sections ---------------------------------
-Section "Icons" icons
+Section "Icons"
 
 	SetOutPath "$INSTDIR\Contrib\Graphics\Icons"
 	File "Pixelbox 2002 Installer.ico"
