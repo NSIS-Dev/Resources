@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	2013 © Jan T. Sott - http://whyeye.org
+	Creative Commons Attribution-ShareAlike 3.0 Unported License
+	http://creativecommons.org/licenses/by-sa/3.0/
+-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="256px" height="256px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">
+<path fill="#9B9C9E" stroke="#1A171B" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" d="M128,20
+	C68.354,20,20,68.354,20,128s48.354,108,108,108s108-48.354,108-108S187.646,20,128,20z M128,146c-9.941,0-18-8.059-18-18
+	s8.059-18,18-18s18,8.059,18,18S137.941,146,128,146z"/>
+<g>
+	<path fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" d="M137.001,47
+		c36,0,72,36,72,72"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" d="M137.001,65
+		c27,0,54,27,54,54"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" d="M137,82.999
+		c18.001,0,36.002,18.001,36.002,36.001"/>
+</g>
+</svg>
