@@ -7,6 +7,10 @@ RequestExecutionLevel admin
 InstallDir $PROGRAMFILES\NSIS
 InstallDirRegKey HKLM Software\NSIS ""
 
+; Interface --------------------------------
+Icon "Pixelbox 2011 Installer.ico"
+CheckBitmap "Pixelbox 2011 Checkboxes (red).bmp"
+
 ; Pages ------------------------------------
 Page components
 Page directory
@@ -30,8 +34,8 @@ Section "Checkboxes"
 	SetOutPath "$INSTDIR\Contrib\Graphics\Checks"
 	File "Pixelbox 2002 Checkboxes.bmp"
 	File "Pixelbox 2007 Checkboxes.bmp"
-	File "Pixelbox 2011 Checkboxes (blue).bmp"
-	File "Pixelbox 2011 Checkboxes (green).bmp"
+	File "Pixelbox 2011 Checkboxes (grey).bmp"
+	File "Pixelbox 2011 Checkboxes (red).bmp"
 
 SectionEnd
 
