@@ -1,5 +1,7 @@
 # VectorDisc
 
+![VectorDisc](https://raw.github.com/NSIS-Handbook/Resources/VectorDisc/master/images/VectorDisc.png)
+
 The VectorDisc icon-set for [NSIS][1], as the name suggest, is a reduced representation of an optical disc, clearly labeled with the words "Setup" and "Remove" to reveal their purpose. The download includes two icons in various sizes (16✕16, 32✕32, 48✕48, 128✕128), two wizard images, and the original vector file in SVG format.
 
 ## Installation
